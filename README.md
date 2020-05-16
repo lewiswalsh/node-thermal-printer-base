@@ -1,6 +1,6 @@
 # INSTALL
-Install libudev
-`sudo apt install libudev-dev`
+Install libudev and build-essential
+`sudo apt install build-essential libudev-dev`
 
 Add user to the 'lp' group
 `sudo addgroup <myusername> lp`
